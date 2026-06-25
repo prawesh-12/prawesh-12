@@ -30,7 +30,7 @@
 - 🤖 **[SyncPilot](https://github.com/prawesh-12/sync-pilot)** - an AI agent for your inbox. It triages every new Gmail message and briefs you on Signal, where you approve, send, or revise drafts.
 - ⚙️ **[serveInfer](https://github.com/prawesh-12/serveInfer)** - an on-device, multi-process inference runtime for GGUF models (e.g. Phi-3), with a control plane, a Node.js API plane, and browser UIs for Document Q&A and Meeting Summaries.
 - 🎙️ **[DubFlow](https://github.com/prawesh-12/dubflow)** - an audio dubbing workspace. It transcribes with Whisper, translates and re-voices with Sarvam AI, then stitches everything into a final MP3 through a React dashboard.
-- 🦾 **[Apek](https://github.com/prawesh-12/Apek)** - an interactive terminal AI coding agent (in the spirit of Claude Code) that talks to an LLM and runs sandboxed filesystem/shell operations. A Python backend with a React + Ink terminal UI.
+- 🦾 **[Apek](https://github.com/prawesh-12/Apek)** - a terminal AI coding agent (in the spirit of Claude Code & Codex) that talks to an LLM and runs sandboxed filesystem/shell operations. A Python backend with a React + Ink terminal UI.
 - 🔍 **[Prism](https://github.com/prawesh-12/prism)** - a query intelligence endpoint that turns a natural-language query into structured intelligence (domain, geography, intent, filters) via an LLM.
 
 ### Web Apps & Platforms
