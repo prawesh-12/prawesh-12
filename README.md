@@ -50,9 +50,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=%F0%9F%9A%80+Building+software+on+Earth%2C+dreaming+about+space.;%F0%9F%AA%90+Searching+for+the+next+world+humanity+could+call+home." alt="Building software on Earth, dreaming about space — searching for the next world humanity could call home." />
-</p>
-
-<p align="center"><i>🛸 Fascinated by space technology and the planets we might one day make habitable.</i></p>
-
